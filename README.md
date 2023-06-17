@@ -17,7 +17,7 @@ Built with the Flutter Framework utilizing [Hive](https://github.com/hivedb/hive
 - Material You dynamic theming
 ## Screenshots
 
-<img src= "screenshots/screens.png" width=900/>
+<img src= "screenshots/Screens.png" width=900/>
 
 ##### Dynamic Theming
 <img src= "screenshots/dynamic_theme.gif" width=300px/>
